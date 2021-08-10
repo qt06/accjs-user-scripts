@@ -4,9 +4,9 @@
 // @version      0.1
 // @description  问卷星无障碍优化脚本
 // @author  杨永全
-// @match  https://.wjx.com/*
-// @match  https://.wjx.cn/*
-// @match  https://.wjx.top/*
+// @match  https://*.wjx.com/*
+// @match  https://*.wjx.cn/*
+// @match  https://*.wjx.top/*
 // @grant  none
 // ==/UserScript==
 
